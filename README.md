@@ -1,5 +1,5 @@
 
-Hei! André Kvist her
+##Hei! André Kvist her
 En kommende Frontend-utvikler med lidenskap for
 og skape gode UI-design med en spesiell forkjærlighet for CSS. Jeg Har
 fullført den teoretiske biten på Kodehode og utforsker nå kreative
