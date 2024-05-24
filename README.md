@@ -1,5 +1,6 @@
 
-Hei! André Kvist her. En kommende Frontend-utvikler med lidenskap for
+Hei! André Kvist her
+En kommende Frontend-utvikler med lidenskap for
 og skape gode UI-design med en spesiell forkjærlighet for CSS. Jeg Har
 fullført den teoretiske biten på Kodehode og utforsker nå kreative
 design utfordringer. I en oppgave jeg hadde, laget jeg en nettside som
