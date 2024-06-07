@@ -18,7 +18,7 @@ const andre = {
   navn: "André Vestrheim Kvist",
   produsert: "30.Mars.1994",
   jobbErfaring: ["Kjemiprosess", "Montør", "Transport og logistikk", "Butikkmedarbeider", "Operatør"],
-  hobbyer: ["Programmering", "Sport", "Reising"],
+  hobbyer: ["Programmering", "Male Warhammer miniatyrer", "Warhammer Fantasy Rolplay", "Gaming"],
 
   skills: {
     design: "Figma",
