@@ -15,16 +15,16 @@ har også eksperimentert med Tailwind CSS og TypeScript på grunnleggende forst�
 
 ```js
 const Skils =
-design: "Figma"
-frontEnd: ["HTML", "CSS", "JS"]
-backend: ["JS", "C#"]
+design: "Figma",
+frontEnd: ["HTML", "CSS", "JS"],
+backend: ["JS", "C#"],
 framework: "React"
 ```
 ```js
 const André =
-Navn: "André Vestrheim Kvist"
-produsert: "1994"
-jobbErfaring; "Kjemi prosses", "Montør", "Transport og logistikk", "Butikmedarbeider", "operatør"]
+Navn: "André Vestrheim Kvist",
+produsert: "1994",
+jobbErfaring; "Kjemi prosses", "Montør", "Transport og logistikk", "Butikmedarbeider", "operatør"],
 Hobyer: ["Male Warhammer miniatyrer", "game", "youtube", "Warhammer Fantasy Rolplay,"]
 ```
 <hr>
