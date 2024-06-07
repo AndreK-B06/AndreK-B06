@@ -14,18 +14,20 @@ har også eksperimentert med Tailwind CSS og TypeScript på grunnleggende forst�
 <hr>
 
 ```js
-const Skils =
-design: "Figma",
-frontEnd: ["HTML", "CSS", "JS"],
-backend: ["JS", "C#"],
-framework: "React"
-```
-```js
-const André =
-Navn: "André Vestrheim Kvist",
-produsert: "1994",
-jobbErfaring; "Kjemi prosses", "Montør", "Transport og logistikk", "Butikmedarbeider", "operatør"],
-Hobyer: ["Male Warhammer miniatyrer", "game", "youtube", "Warhammer Fantasy Rolplay,"]
+const andre = {
+  navn: "André Vestrheim Kvist",
+  produsert: 1994,
+  jobbErfaring: ["Kjemiprosess", "Montør", "Transport og logistikk", "Butikkmedarbeider", "Operatør"],
+  hobbyer: ["Programmering", "Sport", "Reising"],
+
+  skills: {
+    design: "Figma",
+    frontEnd: ["HTML", "CSS", "JavaScript"],
+    backEnd: ["JavaScript", "C#"],
+    frameworks: ["React"]
+  }
+};
+
 ```
 <hr>
 
