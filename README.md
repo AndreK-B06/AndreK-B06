@@ -16,7 +16,7 @@ har også eksperimentert med Tailwind CSS og TypeScript på grunnleggende forst�
 ```js
 const andre = {
   navn: "André Vestrheim Kvist",
-  produsert: "1994",
+  produsert: "30.Mars.1994",
   jobbErfaring: ["Kjemiprosess", "Montør", "Transport og logistikk", "Butikkmedarbeider", "Operatør"],
   hobbyer: ["Programmering", "Sport", "Reising"],
 
@@ -24,7 +24,7 @@ const andre = {
     design: "Figma",
     frontEnd: ["HTML", "CSS", "JavaScript"],
     backEnd: ["JavaScript", "C#"],
-    frameworks: ["React"]
+    frameworks: ["React JSX, blazor, React native"]
   }
 };
 
