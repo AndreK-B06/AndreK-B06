@@ -16,19 +16,20 @@ har også eksperimentert med Tailwind CSS og TypeScript på grunnleggende forst�
 <hr>
 
 ```js
-const andre = {
+const andre = [
+{
   navn: "André Vestrheim Kvist",
   produsert: "30.Mars.1994",
   jobbErfaring: ["Kjemi prosess", "Montør", "Transport og logistikk", "Butikkmedarbeider", "Operatør"],
   hobbyer: ["Programmering", "Male Warhammer miniatyrer", "Warhammer Fantasy Rolplay", "Gaming"],
-
+}
   skills: {
     design: "Figma",
     frontEnd: ["HTML", "CSS", "JavaScript"],
     backEnd: ["JavaScript", "C#"],
     frameworks: ["React JSX, blazor, React native"]
   }
-};
+];
 
 ```
 <hr>
