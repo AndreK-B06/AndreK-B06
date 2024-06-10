@@ -2,11 +2,13 @@
 <h1>Hei! André Kvist her</h1>
 
 
-<p>En aspirerende backend-utvikler med en lidenskap for koding inenfor logikk og lignende.</p>
+<p>En aspirerende backend-utvikler med en lidenskap for å bli en dyktig backend-utvikler.<br>
+tanker om fullstack-utvikler i fremtiden. Har interese for å lære meg forskjelie kodespråk
+og frameworks.</p>
   
-<p>jeg fulførte front-end teori delen av jooblops kurs kalt kodehode
-og fokuserer nå på backend siden av koding. for jobbe med og forbedre min kunskap og lidenskap innen for det.
-så det vil si jeg har både front-end kunskaper og backend kunskaper.</p>
+<p>jeg fulførte front-end teori delen av jooblops kurs kalt kodehode<br>
+og fokuserer nå på backend siden av koding. Jobbe med og forbedre min kunskap og lidenskap innen for det.<br>
+så det vil si jeg har solid grunnforståelse for front-end, og noe forståelse for backend.</p>
 
 <p>har kunskap om .Net, Blazor, SQL og jobber med sertifisere meg i C#.
 har også eksperimentert med Tailwind CSS og TypeScript på grunnleggende forståelse nivå</p>
@@ -17,7 +19,7 @@ har også eksperimentert med Tailwind CSS og TypeScript på grunnleggende forst�
 const andre = {
   navn: "André Vestrheim Kvist",
   produsert: "30.Mars.1994",
-  jobbErfaring: ["Kjemiprosess", "Montør", "Transport og logistikk", "Butikkmedarbeider", "Operatør"],
+  jobbErfaring: ["Kjemi prosess", "Montør", "Transport og logistikk", "Butikkmedarbeider", "Operatør"],
   hobbyer: ["Programmering", "Male Warhammer miniatyrer", "Warhammer Fantasy Rolplay", "Gaming"],
 
   skills: {
