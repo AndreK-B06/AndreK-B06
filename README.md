@@ -22,7 +22,7 @@ const andre = [
   produsert: "30.Mars.1994",
   jobbErfaring: ["Kjemi prosess", "Montør", "Transport og logistikk", "Butikkmedarbeider", "Operatør"],
   hobbyer: ["Programmering", "Male Warhammer miniatyrer", "Warhammer Fantasy Rolplay", "Gaming"],
-}
+},
   skills: {
     design: "Figma",
     frontEnd: ["HTML", "CSS", "JavaScript"],
