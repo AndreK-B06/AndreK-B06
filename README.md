@@ -8,10 +8,10 @@ og frameworks.</p>
   
 <p>jeg fulførte front-end teori delen av jooblops kurs kalt kodehode<br>
 og fokuserer nå på backend siden av koding. Jobbe med og forbedre min kunskap og lidenskap innen for det.<br>
-så det vil si jeg har solid grunnforståelse for front-end, og noe forståelse for backend.</p>
+har kunskap med fullstack.</p>
 
 <p>har kunskap om .Net, Blazor, SQL og jobber med sertifisere meg i C#.
-har også eksperimentert med Tailwind CSS og TypeScript på grunnleggende forståelse nivå</p>
+Jeg jobber med Tailwind CSS og TypeScript</p>
 <br>
 <hr>
 
