@@ -4,18 +4,17 @@
 
 <h2>En aspirerende backend-utvikler med en lidenskap for å bli en dyktig backend-utvikler.</h2><br>
 
-<img align='left' src="" height="150vh">
+<img align='left' src="/img/meg.JPG" height="200vh">
 <p>Jeg er en programerer med tanker om fullstack-utvikler i fremtiden. Har interese for å lære meg forskjelie kodespråk
 og frameworks.</p>
 
 <hr>
-<p>jeg fulførte front-end teori delen av jooblops kurs kalt kodehode<br>
-og fokuserer nå på backend siden av koding. Jobbe med og forbedre min kunskap og lidenskap innen for det.<br>
+<p>jeg fulførte front-end teori delen av jooblops kurs kalt kodehode
+og fokuserer nå på backend siden av koding. Jobbe med og forbedre min kunskap og lidenskap innen for det.
 har kunskap med fullstack.</p>
 <hr>
 <p>har kunskap om .Net, Blazor, SQL og jobber med sertifisere meg i C#.
 Jeg jobber med Tailwind CSS og TypeScript</p>
-<br>
 
 <hr>
 <h3>Om meg:</h3>
