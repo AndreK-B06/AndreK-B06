@@ -2,18 +2,23 @@
 <h1>Hei! André Kvist her</h1>
 
 
-<p>En aspirerende backend-utvikler med en lidenskap for å bli en dyktig backend-utvikler.<br>
-tanker om fullstack-utvikler i fremtiden. Har interese for å lære meg forskjelie kodespråk
+<h2>En aspirerende backend-utvikler med en lidenskap for å bli en dyktig backend-utvikler.</h2><br>
+
+<img align='left' src="" height="150vh">
+<p>Jeg er en programerer med tanker om fullstack-utvikler i fremtiden. Har interese for å lære meg forskjelie kodespråk
 og frameworks.</p>
-  
+
+<hr>
 <p>jeg fulførte front-end teori delen av jooblops kurs kalt kodehode<br>
 og fokuserer nå på backend siden av koding. Jobbe med og forbedre min kunskap og lidenskap innen for det.<br>
 har kunskap med fullstack.</p>
-
+<hr>
 <p>har kunskap om .Net, Blazor, SQL og jobber med sertifisere meg i C#.
 Jeg jobber med Tailwind CSS og TypeScript</p>
 <br>
+
 <hr>
+<h3>Om meg:</h3>
 
 ```js
 const andre = [
@@ -34,7 +39,7 @@ const andre = [
 ```
 <hr>
 
-<h3>Ta kontakt:</h3>
+<h4>Ta kontakt:</h4>
 
 [Email](mailto:vestrheim-kvist@hotmail.com)<br>
 [LinktIn](https://www.linkedin.com/in/andr%C3%A9-vestrheim-kvist-959510280/)
