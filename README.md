@@ -5,16 +5,14 @@
 <h2>En aspirerende backend-utvikler med en lidenskap for å bli en dyktig backend-utvikler.</h2><br>
 
 <img align='left' src="/img/meg.JPG" height="200vh">
-<p>Jeg er en programerer med tanker om fullstack-utvikler i fremtiden. jeg har langt igjen å gå men er lærer villig og elsker og jobbe for og forbedre meg. nettsidene jeg har laget handler om mine interreser og jobber både med å være en mer effektiv koder, og lage kode som tar mindre plass</p>
- <p>Lære meg forskjelie kodespråk og frameworks er noe jeg brener for.
-Finer stor fornøyelse med og se kodem nim fungerer og lærrer noe nytt når jeg får en error. jeg spiller rollespill på fritiden og spiller mye med venner. jeg har også jobbet med blender og python for og utvide horizontene mine</p>
+<p>Jeg er en programerer med tanker om fullstack-utvikler i fremtiden. Jeg har langt igjen å gå, men er ivrig etter å lære og elsker nye utfordringer. Nettsidene jeg har laget handler om mine interreser og er et verktøy for å effektivisere meg som koder.</p>
+ <p>Lære meg forskjellige kodespråk og frameworks er noe jeg brenner for.
+Finner stor fornøyelse med å se at koden nim fungerer og lærer noe nytt når jeg får en error. Jeg spiller rollespill på fritiden og spiller mye med venner. Jeg har også jobbet med blender og python for å utvide horisontene mine.</p>
 
 <hr>
-<p>jeg fulførte front-end teori delen av jooblops kurs kalt kodehode
-og fokuserer nå på backend siden av koding. Jobbe med og forbedre min kunskap og lidenskap innen for det.
-har kunskap med fullstack.</p>
+<p>Jeg fullførte front-end teori delen av Jobloops kurs kalt Kodehode og fokuserer nå på backend siden av koding. Jobber nå med å forbedre min kunnskap og lidenskap innenfor dette, og har litt erfaring med fullstack.</p>
 <hr>
-<p>har kunskap om .Net, Blazor, SQL, typescript. jeg har veldig lyst til og lære meg mer innenfor backend og elsker og jobbe med andre for og finne smarte løsninger.</p>
+<p>Igjennom Kodehode, har jeg fått en generell kompetanse med .Net, Blazor, SQL, typescript. Jeg har veldig lyst til å lære meg mer innenfor backend og elsker å jobbe med andre for å finne smarte løsninger.</p>
 
 <hr>
 <h3>Om meg:</h3>
