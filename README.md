@@ -4,7 +4,7 @@
 
 <h2>En aspirerende backend-utvikler med en lidenskap for å bli en dyktig backend-utvikler.</h2><br>
 
-<img align='left' src="/img/meg.JPG" height="200vh">
+<img align='left' src="/img/meg.JPG" height="200vh" style="border-radius: 10px;">
 <p>Jeg er en programerer med tanker om fullstack-utvikler i fremtiden. jeg har langt igjen å gå men er lærer villig og elsker og jobbe for og forbedre meg. nettsidene jeg har laget handler om mine interreser og jobber både med å være en mer effektiv koder, og lage kode som tar mindre plass</p>
  <p>Lære meg forskjelie kodespråk og frameworks er noe jeg brener for.
 Finer stor fornøyelse med og se kodem nim fungerer og lærrer noe nytt når jeg får en error. jeg spiller rollespill på fritiden og spiller mye med venner. jeg har også jobbet med blender og python for og utvide horizontene mine</p>
