@@ -45,4 +45,4 @@ const andre = [
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreK-B06&cache_bust=true&theme=dark#gh-dark-mode-only)](https://github.com/AndreK-B06/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreK-B06&cache_bust=true&theme=dark#gh-dark-mode-only)](https://github.com/AndreK-B06/github-readme-stats#gh-dark-mode-only#count-10)
