@@ -7,7 +7,7 @@
 <img align='left' src="/img/meg.JPG" height="200vh">
 <p>Jeg er en programerer med tanker om fullstack-utvikler i fremtiden. Jeg har langt igjen å gå, men er ivrig etter å lære og elsker nye utfordringer. Nettsidene jeg har laget handler om mine interreser og er et verktøy for å effektivisere meg som koder.</p>
  <p>Lære meg forskjellige kodespråk og frameworks er noe jeg brenner for.
-Finner stor fornøyelse med å se at koden nim fungerer og lærer noe nytt når jeg får en error. Jeg spiller rollespill på fritiden og spiller mye med venner. Jeg har også jobbet med blender, python og first lego league sit pogram EV3 Classroom for å utvide horisontene mine.</p>
+Finner stor fornøyelse med å se at koden nim fungerer og lærer noe nytt når jeg får en error. Jeg spiller rollespill på fritiden og spiller mye med venner. Jeg har også jobbet med blender, python og First Lego League sitt program EV3 Classroom for å utvide horisontene mine.</p>
 
 <hr>
 <p>Jeg fullførte front-end teori delen av Jobloops kurs kalt Kodehode og fokuserer nå på backend siden av koding. Jobber nå med å forbedre min kunnskap og lidenskap innenfor dette, og har litt erfaring med fullstack.</p>
