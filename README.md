@@ -27,7 +27,7 @@ const andre = [
 },
   skills: {
     design: "Figma",
-    kodespråk: ["HTML", "CSS", "C#", "Javascript", "Typescript", "Python"],
+    kodespråk: ["HTML", "CSS", "C#", "Javascript", "Typescript", "Python", "RenPy"],
     frameworks: ["React JSX, blazor, React native"]
   }
 ];
