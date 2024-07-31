@@ -20,10 +20,10 @@ Finner stor fornøyelse med å se at koden nim fungerer og lærer noe nytt når 
 ```js
 const andre = [
   meg: {
-   navn: "André Vestrheim Kvist",
-   produsert: "30.Mars.1994",
-   jobbErfaring: ["Kjemi prosess", "Montør", "Transport og logistikk", "Butikkmedarbeider", "Operatør"],
-   hobbyer: ["Programmering", "Male miniatyrer", "Fantasy Rolplay", "Gaming","3D modelering i blender"],
+    navn: "André Vestrheim Kvist",
+    produsert: "30.Mars.1994",
+    jobbErfaring: ["Kjemi prosess", "Montør", "Transport og logistikk", "Butikkmedarbeider", "Operatør"],
+    hobbyer: ["Programmering", "Male miniatyrer", "Fantasy Rolplay", "Gaming","3D modelering i blender"],
  },
   skills: {
     design: "Figma",
