@@ -15,6 +15,7 @@ Finner stor fornøyelse med å se at koden nim fungerer og lærer noe nytt når 
 <p>Igjennom Kodehode, har jeg fått en generell kompetanse med .Net, Blazor, SQL, typescript. Jeg har veldig lyst til å lære meg mer innenfor backend og elsker å jobbe med andre for å finne smarte løsninger.</p>
 
 <hr>
+
 <h3>Om meg:</h3>
 
 ```js
