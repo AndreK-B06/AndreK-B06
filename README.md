@@ -42,8 +42,5 @@ const andre = [
 [LinktIn](https://www.linkedin.com/in/andr%C3%A9-vestrheim-kvist-959510280/)
 <hr>
 
-[![André's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AndreK-B06&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AndreK-B06/github-readme-stats#gh-dark-mode-only)
+[![André's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AndreK-B06&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AndreK-B06/github-readme-stats#gh-dark-mode-only)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreK-B06&layout=donut&bg_color=1A1A1A&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/AndreK-B06/github-readme-stats)
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreK-B06&cache_bust=true&theme=dark#gh-dark-mode-only)](https://github.com/AndreK-B06/github-readme-stats#gh-dark-mode-only#count-10)
